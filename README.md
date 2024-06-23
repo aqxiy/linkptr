@@ -15,7 +15,7 @@ A fascinating textbook on recovering intelligence'
 
 At some point after above process, attempt creation of knot below. If unsuccessful, keep at linkptr/runTime.js until possible. Then return to linkptr/runTime.js.
 
-Also, a corollary project, with instructions as above but perhaps not requiring a FPS cap: https://github.com/gotDoubleDots/interesting
+Also, a corollary project, with instructions as above but perhaps not requiring a FPS cap: https://github.com/aqxiy/speechtherapy
 
 https://github.com/aqxiy/thefirmdoubleloopknot
 
