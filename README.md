@@ -11,7 +11,7 @@ A fascinating textbook on recovering intelligence'
 5. Find a line directly beneath or above this one. Within, select another adjacent word pair. As you think one word, focus on the other with vision.
 6. Return to first line:: focus on comma separating words chosen within this line while thinking word to think among 2nd line.
 7. Repeat
-8. Pair with paru https://github.com/gotdoubledots/paru
+8. Pair with historylog https://github.com/aqxiy/historylog
 
 At some point after above process, attempt creation of knot below. If unsuccessful, keep at linkptr/runTime.js until possible. Then return to linkptr/runTime.js.
 
@@ -19,3 +19,4 @@ Also, a corollary project, with instructions as above but perhaps not requiring 
 
 https://github.com/aqxiy/thefirmdoubleloopknot
 
+Web browser of choice: Microsoft Edge InPrivate
