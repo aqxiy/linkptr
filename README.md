@@ -31,7 +31,7 @@ AMD Adrenalin -{ Gaming - > Graphics open & scrolled to "Frame rate target contr
 
 This wallpaper: https://github.com/aqxiy/wallpaperspace
 
-AMD Advice: At some point on present installation, navigate to Display & {tick GPU scaling, tick Integer scaling, untick Integer scaling, restart}
+AMD Advice: At some point on present installation, navigate to Display & { tick GPU scaling, tick Integer scaling, untick Integer scaling, restart PC }
 
 Tip: All windows maximized, min/max with taskbar icon, taskbar left-biased, cursor moved off-screen for reading portions
 
