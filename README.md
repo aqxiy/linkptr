@@ -69,7 +69,7 @@ Tip: All windows maximized, min/max with taskbar icon, taskbar left-biased, curs
 
 15. Open AMD Adrenalin window
 
-16. Set fps cap to 60
+16. Set "Frame rate target control" to Disabled
 
 17. Minimize AMD Adrenalin window
 
