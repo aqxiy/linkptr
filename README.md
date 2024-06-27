@@ -19,7 +19,9 @@ Also, a corollary project, with instructions as above but perhaps not requiring 
 
 https://github.com/aqxiy/thefirmdoubleloopknot
 
-Further instructions, a product of additional theory:
+
+
+## Further instructions, a product of additional theory:
 
 You want 1 Chrome Incognito window & tab within (nothing else open in Chrome); 
 
