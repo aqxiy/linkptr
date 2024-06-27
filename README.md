@@ -59,9 +59,9 @@ Tip: All windows maximized, min/max with taskbar icon, taskbar left-biased, curs
 
 10. Minimize Atom window
 
-11. Open linkptr in Atom. Glance at document 2-5 seconds. Be sure to not exceed 5 seconds.
+11. Open linkptr in Chrome. Glance at document 2-5 seconds. Be sure to not exceed 5 seconds.
 
-12. Minimize Atom window
+12. Minimize Chrome window
 
 13. Open linkptr in Atom & engage document as detailed initially, until feel tired or however you desire
 
