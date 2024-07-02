@@ -1,8 +1,28 @@
 # linkptr
 A fascinating textbook on recovering intelligence'
 
+## Quick intro
+"
+Linkptr is an intriguing project hosted on GitHub by the user aqxiy. It involves a fascinating approach to recovering intelligence. Here are some key points from the project’s README:
 
-### Rough util construct
+### Adjusting GPU FPS:
+The project suggests limiting the maximum frames per second (FPS) to 153 on modern AMD GPUs using Adrenalin software (likely RX 5XX+). This can reportedly induce a state akin to hypnosis. The instructions recommend deciding whether to use an optical tuning device (glasses/contacts) while experimenting with this technique.
+
+### Word Pair Focus:
+To engage in this process, open the linkptr/runTime.js document in an incognito Brave browser tab or window. Find a line and select an adjacent word pair. As you think of one word, focus on the other with your vision. Then find a line directly above or below the first one and select another adjacent word pair. Repeat the process, focusing on the chosen words. The README provides further details on this intriguing exercise.
+
+At some point after above process, attempt creation of knot below. If unsuccessful, keep at linkptr/runTime.js until possible. Then return to linkptr/runTime.js.
+https://github.com/aqxiy/thefirmdoubleloopknot
+
+
+Corollary Projects: The author also mentions related projects:
+Thefirmdoubleloopknot: https://github.com/aqxiy/thefirmdoubleloopknot
+Historylog: A project that seems to be connected to the process described above.
+Speechtherapy: Another project with similar instructions, possibly not requiring an FPS cap.
+"
+
+
+### Rough util construct - really, the intro to an alternate technique requiring Chrome & Atom 
 
 1. Adjust GPU max FPS to 153 on modern AMD GPU Adrenalin software (likely RX 5XX + ). If you limit FPS to 153 on AMD GPU with a 60 hz, you can get something like hypnosis.
 2. Decide with or without optical tuning device (glasses/contacts). Works better without in my experience.
