@@ -2,7 +2,6 @@
 A fascinating textbook on recovering intelligence'
 
 ## Quick intro
-"
 Linkptr is an intriguing project hosted on GitHub by the user aqxiy. It involves a fascinating approach to recovering intelligence. Here are some key points from the project’s README:
 
 ### Adjusting GPU FPS:
@@ -16,10 +15,13 @@ https://github.com/aqxiy/thefirmdoubleloopknot
 
 
 Corollary Projects: The author also mentions related projects:
+
 Thefirmdoubleloopknot: https://github.com/aqxiy/thefirmdoubleloopknot
+
 Historylog: A project that seems to be connected to the process described above.
+
 Speechtherapy: Another project with similar instructions, possibly not requiring an FPS cap.
-"
+
 
 
 ### Rough util construct - really, the intro to an alternate technique requiring Chrome & Atom 
