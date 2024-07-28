@@ -3,9 +3,9 @@ A fascinating textbook on recovering intelligence'
 
 ## My best effort at explaining
 
-It's like a mix between hypnosis, meditation, brain-training, and learning. To me, there are 2 solid approaches. Both require use of paramrem.com with fy.html appended to final URL. 
+It's like a mix between hypnosis, meditation, brain-training, and learning. To me, there are 2 solid approaches. Each entails use of paramrem.com, for me with the particular song fy.html appended to final URL. 
 
-One of these utilizes a computer with an AMD GPU & Adrenalin software with FPS Cap 153. Also, Sublime Text. The other may be a bit less efficacious and entails use of high hz smartphone.
+The computer approach utilizes a computer with an AMD GPU & Adrenalin software with FPS Cap 153. Also, Sublime Text. The other may be a bit less efficacious and entails use of high hz smartphone.
 
 ### Aside from directly below, most of document may be redundant as maybe better approach has been discovered/defined
 
