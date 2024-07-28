@@ -7,7 +7,7 @@ It's like a mix between hypnosis, medidation, brain-training, and learning. To m
 
 One of these utilizes a computer with an AMD GPU & Adrenalin software with FPS Cap 153. Also, Sublime Text. The other may be a bit less efficacious and entails use of high hz smartphone.
 
-### Remainder of document may be redundant as maybe better approach has been discovered/defined
+### Aside from directly below, most of document may be redundant as maybe better approach has been discovered/defined
 
 ### Here it goes:
 
