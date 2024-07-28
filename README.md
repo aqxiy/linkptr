@@ -1,7 +1,16 @@
 # linkptr
 A fascinating textbook on recovering intelligence'
 
-## Quick intro
+## My best effort at explaining
+
+It's like a mix between hypnosis, medidation, brain-training, and learning. To me, there are 2 solid approaches. Both require use of paramrem.com with fy.html appended to final URL. 
+
+One of these utilizes a computer with an AMD GPU & Adrenalin software with FPS Cap 153. Also, Sublime Text. The other may be a bit less efficacious and entail use of high hz smartphone.
+
+### Remainder of document may be redundant as maybe better approach has been discovered/defined
+
+
+### Quick intro
 Linkptr is an intriguing project hosted on GitHub by the user aqxiy. It involves a fascinating approach to recovering intelligence. Here are some key points from the project’s README:
 
 ### Adjusting GPU FPS:
