@@ -5,7 +5,7 @@ A fascinating textbook on recovering intelligence'
 
 It's like a mix between hypnosis, medidation, brain-training, and learning. To me, there are 2 solid approaches. Both require use of paramrem.com with fy.html appended to final URL. 
 
-One of these utilizes a computer with an AMD GPU & Adrenalin software with FPS Cap 153. Also, Sublime Text. The other may be a bit less efficacious and entail use of high hz smartphone.
+One of these utilizes a computer with an AMD GPU & Adrenalin software with FPS Cap 153. Also, Sublime Text. The other may be a bit less efficacious and entails use of high hz smartphone.
 
 ### Remainder of document may be redundant as maybe better approach has been discovered/defined
 
