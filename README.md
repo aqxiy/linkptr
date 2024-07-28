@@ -9,6 +9,21 @@ One of these utilizes a computer with an AMD GPU & Adrenalin software with FPS C
 
 ### Remainder of document may be redundant as maybe better approach has been discovered/defined
 
+### Here it goes:
+
+% Have AMD Adrenalin installed & toggle "Frame rate target control" with setting to 153 fps. Also, on my preferred config with 4k 60hz, AMD GPU fluid rendition hack: enable GPU scaling, enable integer scaling, disable integer scaling, restart PC. All else default.
+
+% Have Sublime Text installed (free version works fine)
+
+% Have this Forever Young remix rendition available (simply visit page and click rectangle to play) https://gotdoubledots.github.io/paramrem_a/fy.html
+
+1. Copy/paste linkTest.js into a Sublime Text tab, then save; or, download repo and open linkTest.js in Sublime Text. Either way, have access to the file in .js format. Also, it's good to repeatedly press enter until the cursor is below the window lower border.
+2. Begin music.
+3. With FPS cap @ 153, open Sublime Text maximized. 
+
+^^ Particulars
+
+
 
 ### Quick intro
 Linkptr is an intriguing project hosted on GitHub by the user aqxiy. It involves a fascinating approach to recovering intelligence. Here are some key points from the project’s README:
